@@ -1,0 +1,7 @@
+Code: https://create.arduino.cc/editor/_/007fd5d8-1b54-4374-9287-489ce67167e8/preview
+
+RFID: https://www.youtube.com/watch?v=Gtu-kZ24O0o
+
+PIR: https://youtu.be/FxaTDvs34mM
+
+Datastreamer: https://www.youtube.com/watch?v=dcRQH1zPNbA [Record to store data]

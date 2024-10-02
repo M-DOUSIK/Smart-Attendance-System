@@ -1,0 +1,33 @@
+1) Upload your code to the arduino after setting up the circuit based on the design.
+
+2) Then open a blank excel sheet.
+
+3) Click data streamer tab extension and connect your COM port.
+
+4) Start collecting data and record it.
+
+5) Once done, stop the recording and save it.
+
+*-*
+
+1) Entry sensor detects person.
+
+2) Person tags their rfid.
+
+3) Exit sensor detects person and data gets stored as entry.
+
+4) If person forgets to tag rfid and triggers exit sensor, buzzer beeps and are forced to leave and wait for 5 seconds.
+
+*-*
+
+1) Exit sensor detects person.
+
+2) Perons tags their rfid.
+
+3) Entry sensor detects person and data gets stored as exit.
+
+4) If person forgets to tag rfid and trigers entry sensor, buzzer beeps but person not forced to wait. If they don;t care about attendance, they will just leave and in the attendance sheet, they will have more entries than exits, which will be analyzed and found out.
+
+5) The same data analysis can be used for other types of cheats.
+
+[RFID reads only 1 input per entry or exit]
