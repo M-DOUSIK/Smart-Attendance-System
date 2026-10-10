@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Arduino build output
+build/
+
+# Office lock files
+~$*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Face data and trained models are personal data; never commit them
+face_recognition/image_data/*
+!face_recognition/image_data/README.md
+face_recognition/trainner.yml
+face_recognition/labels.pickle
